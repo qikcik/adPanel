@@ -7,7 +7,7 @@
             'hosts'    => ['192.168.0.100'],
             'base_dn'  => 'dc=zs1,dc=bochnia',
             'username' => "admin.ADPanel",
-            'password' => "haslo123",
+            'password' => "superSecret",
     
             'port'     => 636,
             'use_ssl'  => true,
