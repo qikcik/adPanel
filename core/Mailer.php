@@ -10,8 +10,8 @@ class Mailer
     private static $method =  'ssl';
     private static $port =  465;
 
-    public static $login =  'adpanel@wp.pl';
-    private static $pass =  '4Dmin70!';
+    public static $login =  'mail@wp.pl';
+    private static $pass =  'verySecurePassword';
 
     public static function send($to,$tittle,$body)
     {
